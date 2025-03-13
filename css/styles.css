@@ -128,14 +128,13 @@ li:hover {
 
 /* mobile first */
 
-@media (min-width: 480px) {
+@media (max-width: 480px) {
   body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-
     color: var(--clr-hsl-100);
   }
 }
