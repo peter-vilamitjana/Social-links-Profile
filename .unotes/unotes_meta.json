@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "assets": {
+      "name": "assets",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "css": {
+      "name": "css",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "design": {
+      "name": "design",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0,
+    "README-template": 1,
+    "style-guide": 2
+  }
+}
